@@ -7,11 +7,12 @@ a, p, h1, h2, h3, h4, h5, h6{
 }
 
 div.profile{
-    align-content: center;
+    background-color: #100f10;
+    text-align: center;
 }
 
 img.profile{
     border-radius: 50%;
-    width: 150px;
-    height: 150px;
+    width: 10%;
+    height: 10%;
 }
